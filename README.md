@@ -1,6 +1,6 @@
-# artsy_app
+# Artsy Flutter Application
 
-A new Flutter project.
+This application uses Artsy API (`https://metaphysics-production.artsy.net`).
 
 ## Getting Started
 
